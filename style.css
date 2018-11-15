@@ -1,0 +1,7 @@
+#gamecontain{
+    width: 700px;
+    margin: auto;
+}
+#gamecanvas{
+    border: black  solid 1px;
+}
